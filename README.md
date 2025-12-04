@@ -65,9 +65,9 @@ Building a comprehensive solution to revolutionize stadium operations and manage
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zarintasnim27&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zarintasnim27&layout=compact&theme=radical)
 
 </div>
 
@@ -93,7 +93,7 @@ I'm absolutely fascinated by how Large Language Models are changing the way we i
 
 ### 💜 Thanks for visiting my profile! 💜
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
+
 
 *"Code with passion, learn with curiosity, and create with purpose!"* ✨
 
